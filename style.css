@@ -94,6 +94,7 @@ a{
     justify-content: center;
     align-items: center;
     margin-bottom: 80px;
+    flex-wrap: wrap;
 }
 .item-2-info{
     display: flex;
@@ -104,5 +105,24 @@ a{
     text-align: center;
     font-size: 18px;
     color: #b1b1b1;
+}
+.item-3{
+    background: #e5e7eb;
+    padding: 80px;
+}
+.item-3 p{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width: 800px;
+    padding-left: 200px;
+}
+.item-3 h4{
+    padding-right: 180px;
+    color: #1f2937;
+    font-size: 28px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: end;
 }
 
